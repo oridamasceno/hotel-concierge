@@ -1,0 +1,52 @@
+
+{
+  "hotel_name": "Grand Hotel",
+  "faqs": [
+    {
+      "question": "What are the check-in and check-out times?",
+      "answer": "Check-in is at 3:00 PM and check-out is at 11:00 AM."
+    },
+    {
+      "question": "Do you have Wi-Fi?",
+      "answer": "Yes, complimentary Wi-Fi is available throughout the hotel."
+    },
+    {
+      "question": "Is breakfast included?",
+      "answer": "Breakfast is included with most room rates. Please check your booking details."
+    },
+    {
+      "question": "Do you have a swimming pool?",
+      "answer": "Yes, we have an indoor swimming pool open from 7:00 AM to 9:00 PM."
+    }
+  ],
+  "amenities": [
+    "Swimming Pool",
+    "Fitness Center",
+    "Restaurant",
+    "Bar",
+    "Free Wi-Fi",
+    "Parking"
+  ],
+  "room_types": [
+    {
+      "name": "Standard Room",
+      "description": "Comfortable room with a queen-size bed.",
+      "price_range": "$100 - $150"
+    },
+    {
+      "name": "Deluxe Room",
+      "description": "Spacious room with a king-size bed and city view.",
+      "price_range": "$180 - $250"
+    },
+    {
+      "name": "Suite",
+      "description": "Luxurious suite with a separate living area and panoramic views.",
+      "price_range": "$300 - $500"
+    }
+  ],
+  "contact_info": {
+    "phone": "+1 (123) 456-7890",
+    "email": "info@grandhotel.com"
+  },
+  "booking_link": "https://www.grandhotel.com/book"
+}
